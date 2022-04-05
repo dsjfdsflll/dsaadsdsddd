@@ -1,0 +1,14 @@
+{
+  "name": "pusha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pusha.js",
+  "scripts": {
+    "test": "pusha.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
